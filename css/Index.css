@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body{
+	padding: 0;
+	margin: 0;
+	background-image: #FAFFC2;
+}
+html,h1,h2,h3,h4,h5,h6,p,a{
+	font-family: "Varela Round", sans-serif;
+}
+
+#first{
+    text-align: left; 
+}
+
+#second{
+    text-align: left; 
+}
+
+#third{
+    text-align: left; 
+}
+
+#fourth{
+    text-align: left; 
+}
+.logo {
+  box-sizing: inherit;
+     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+
+.navbar .icon {
+  display: none;
+    
+}
+.span {
+  color: #FFCD23;
+  font-size: 1.3rem;
+}
+
+@media screen and (max-width: 600px) {
+  .navbar a:not(:first-child) {display: none;}
+  .navbar a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar.responsive {position: relative;}
+  .navbar.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+  .navbar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+    
+    
+.navbar{
+	background:#79d279;
+   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+    
+}
+.nav-link , .navbar-brand{
+	color: #79d279;
+	cursor: pointer;
+}
+.nav-link{
+	margin-right: 1em !important;
+}
+.nav-link:hover{
+	background: #FFCD23;
+	color: #FFCD23;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+
+}
+.description {
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -55%);
+  text-align:match-parent;
+}
+.description h1 {
+  color:#79d279;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.description h2 {
+  color:#79d279;
+    
+
+}
+
+.description h3 {
+  color:#79d279;
+
+}
+
+.description p {
+  color: #666;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+
+
+
+.features {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+.feature-header{
+  color: #FFCD23;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+   
+}
+
+.feature- description{
+  color: #FFCD23;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+    
+}
+.features img {
+  -webkit-box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
+  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+    
+    
+}
+
+.shadow {
+  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+}
+
+
+
+
+/* Footer */
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+    border-radius: 50%;
+    
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+    
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color:  #79d279;
+  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+}
+
+.page-footer {
+  background-color:#79d279;
+  color: #666;
+  padding: 60px 0 30px;
+  
+    }
+  
+.footer-copyright {
+  color: #666;
+  padding: 40px 0;
+    
+}
+
+.sd-content ul li {
+    margin: 0 5px 5px 0;
+    padding: 0;
+     display: inline-block;
+}
+   
+

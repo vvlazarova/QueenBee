@@ -1,0 +1,101 @@
+.menu {
+    background-color: gold;
+    font-size: 16px;
+    font-style: bold;
+    font-family:"Varela Round" ;
+    color:floralwhite;
+    margin:auto;
+    padding:0 22% 0 22%;
+}
+
+       background-color:#23BB7C;
+
+    padding:#FFCD23;
+}
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+.active{
+    background-color: limegreen;
+    padding: 2px;    
+    
+}
+.img-container {
+    text-align:center;
+}
+img{
+    width:600px;
+    height:600px;
+    border-radius:10%;
+    
+}
+
+
+
+
+h1 {
+    text-align: center;
+    color :#917872 ;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: "Varela Round";
+    color: greenyellow;
+    font-size: 20px;  
+}
+
+h3 {
+    font-style: italic;
+    color:darkgreen;
+    font-size: 17px;  
+}
+
+h4  {
+    text-align: left;
+    color: green;
+    font-size: 15px;    
+}
+
+h5 {
+    text-align: right;
+    color:lightgreen;
+    font-size: 12px;
+}
+
+h6 {
+    font-family:verela round;
+    color:yellowgreen;
+    font-size: 10px;
+}
+
+p {
+    background-color: chartreuse;
+    color:black;
+    padding: 20px;
+}
+
+hr {
+    height:8px;
+    border:6px dashed #917872 ;
+
+}
+
+.sepia{
+    filter:sepia(1);
+
+}
+
+.video{
+    text-align: center;
+}
+
+.audio{
+    text-align: center;
+}
+
+footer {
+    background-color: blueviolet;
+    color: lightgreen;
+    padding: 20px;
+    
+}
