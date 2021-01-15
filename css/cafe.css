@@ -153,27 +153,26 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 
 
 .carousel-item {
-        height: 500px 
+            max-height: 500px; ;
     }
-
 
 /* Container holding the image and the text */
 .container features {
   position: static;
     text-align: right;
+
 }
 
-/* Bottom right text */
-.text-block {
-  position: fixed;
-  top: 90%;
+.carousel-caption {
+  position: absolute;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white ; opacity: 0.8;
   color: white;  
   padding-left: 40px;
   padding-right: 40px;
-  height: 70px ;
+  height: 150px ;
  
     }
 
