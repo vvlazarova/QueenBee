@@ -111,6 +111,11 @@ color:#79d279;
  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
 }
+.description h {
+  color:#79d279;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
 
 .description p {
   color: #666;
@@ -159,6 +164,26 @@ color:#79d279;
 
 .carousel-item {
         height: 450px ;
+    }
+
+/* Container holding the image and the text */
+.container features {
+  position: static;
+    text-align: right;
+}
+
+/* Bottom right text */
+.text-block {
+  position: fixed;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white ; opacity: 0.8;
+  color: white;  
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 98px ;
+ 
     }
 
 
