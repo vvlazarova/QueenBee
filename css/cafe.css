@@ -89,7 +89,6 @@ html,h1,h2,h3,h4,h5,h6,p,a{
   position: absolute;
   top: 45%;
   transform: translate(-50%, -55%);
-  text-align:match-parent;
 }
 .description h1 {
   color:#79d279;
@@ -138,15 +137,15 @@ html,h1,h2,h3,h4,h5,h6,p,a{
     
 }
 .features img {
-  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
 
 .shadow {
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
@@ -188,7 +187,7 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 
 
-.fa:hover {
+.fa:{
   opacity: 0.7;
     
 }
@@ -196,8 +195,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-facebook {
   background: #3B5998;
   color: white;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 
@@ -206,8 +205,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-youtube {
   background: #bb0000;
   color: white;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
@@ -215,8 +214,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-twitter {
   background: #55ACEE;
   color:  #79d279;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }

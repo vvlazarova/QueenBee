@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 body{
+    
 	padding: 0;
 	margin: 0;
 	background-image: #FAFFC2;
@@ -29,8 +28,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 .logo {
   box-sizing: inherit;
-     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
 }
 
@@ -69,8 +68,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
     
 .navbar{
 	background:#79d279;
-   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
     margin-bottom: 16px;
     
@@ -147,8 +146,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
     
 }
 .features img {
-  -webkit-box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
-  -moz-box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
+  box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
+  box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
   box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
     
@@ -156,8 +155,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 
 .shadow {
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
@@ -186,8 +185,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-facebook {
   background: #3B5998;
   color: white;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 
@@ -196,8 +195,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-youtube {
   background: #bb0000;
   color: white;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
@@ -205,8 +204,8 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 .fa-twitter {
   background: #55ACEE;
   color:  #79d279;
-  -webkit-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
 }
