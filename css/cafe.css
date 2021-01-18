@@ -76,7 +76,6 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 	margin-right: 1em !important;
 }
 .nav-link:hover{
-	background: #FFCD23;
 	color: #FFCD23;
 }
 .navbar-collapse{
@@ -187,10 +186,7 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 
 
-.fa:{
-  opacity: 0.7;
-    
-}
+
 
 .fa-facebook {
   background: #3B5998;

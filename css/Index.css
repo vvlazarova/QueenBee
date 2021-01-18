@@ -5,7 +5,7 @@ body{
     
 	padding: 0;
 	margin: 0;
-	background-image: #FAFFC2;
+	background-color: white;
 }
 html,h1,h2,h3,h4,h5,h6,p,a{
 	font-family: "Varela Round", sans-serif;
@@ -28,9 +28,7 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 .logo {
   box-sizing: inherit;
-     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+
 }
 
 
@@ -74,6 +72,7 @@ html,h1,h2,h3,h4,h5,h6,p,a{
     margin-bottom: 16px;
     
 }
+
 .nav-link , .navbar-brand{
 	color: #79d279;
 	cursor: pointer;
@@ -83,7 +82,7 @@ html,h1,h2,h3,h4,h5,h6,p,a{
 }
 .nav-link:hover{
 	background: #FFCD23;
-	color: #FFCD23;
+
 }
 .navbar-collapse{
  justify-content: flex-end;
@@ -146,23 +145,18 @@ html,h1,h2,h3,h4,h5,h6,p,a{
     
 }
 .features img {
-  box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
-  box-shadow: 4px 4px 7px rgba (0, 0, 0, 0.4);
-  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.4);
-  margin-bottom: 16px;
-    
-    
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    margin-bottom: 16px;
+
+  min-height: 50px;
+  width: 50vw;
+  margin: 30px auto;
+  background: white;
+  border-radius: 5px;
 }
-
-.shadow {
-  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.4);
-  margin-bottom: 16px;
-}
-
-
-
+        
 
 /* Footer */
 
@@ -173,14 +167,9 @@ html,h1,h2,h3,h4,h5,h6,p,a{
   text-align: center;
   text-decoration: none;
     border-radius: 50%;
-    
 }
 
 
-.fa:hover {
-  opacity: 0.7;
-    
-}
 
 .fa-facebook {
   background: #3B5998;
@@ -214,13 +203,10 @@ html,h1,h2,h3,h4,h5,h6,p,a{
   background-color:#79d279;
   color: #666;
   padding: 60px 0 30px;
-  
-    }
-  
+}
 .footer-copyright {
   color: #666;
   padding: 40px 0;
-    
 }
 
 .sd-content ul li {
@@ -229,4 +215,3 @@ html,h1,h2,h3,h4,h5,h6,p,a{
      display: inline-block;
 }
    
-
