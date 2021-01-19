@@ -82,7 +82,7 @@ hr {
 }
 
 .navbar {
-  background: #79d279;
+  background: #00BF6F;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
@@ -235,7 +235,7 @@ input[type="checkbox"] {
 }
 
 .page-footer {
-  background-color: #79d279;
+  background-color: #00BF6F;
   color: #666;
   padding: 60px 0 30px;
 }
