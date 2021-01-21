@@ -100,7 +100,7 @@ a {
 }
 .description h1 {
   color: #1D8159;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 .description h2 {
@@ -194,7 +194,7 @@ a {
   padding: 60px 0 30px;
 }
 .footer-copyright {
-  color: darkslategray;
+  color: black;
   padding: 40px 0;
 }
 
