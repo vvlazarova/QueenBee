@@ -79,6 +79,16 @@ a {
   margin-bottom: 16px;
 }
 
+
+.navbar-static-top
+{
+width:100%;
+margin:0 auto;
+}
+.navbar-static-top .container
+{
+width:100%;
+}
 .nav-link,
 .navbar-brand {
   color: #1D8159;
@@ -90,6 +100,14 @@ a {
 }
 .navbar-collapse {
   justify-content: flex-end;
+}
+
+
+
+
+img-banner {
+    width: 100%;
+    padding-bottom: 15px;
 }
 
 .description {
