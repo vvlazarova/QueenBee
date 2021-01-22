@@ -3,7 +3,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: #f8f8f8;
+  background: white;
 }
 html,
 h1,
@@ -213,11 +213,11 @@ a {
 .page-footer {
   background-color: #1D8159;
   color: black;
-  padding: 60px 0 30px;
+  padding:20px 0 10px;
 }
 .footer-copyright {
   color: black;
-  padding: 40px 0;
+  padding: 10px 0;
 }
 
 .sd-content ul li {

@@ -3,7 +3,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: #f8f8f8;
+  background: white;
 }
 html,
 h1,
@@ -103,12 +103,6 @@ width:100%;
 }
 
 
-
-
-img-banner {
-    width: 100%;
-    padding-bottom: 15px;
-}
 
 .description {
   position: relative;
@@ -234,10 +228,12 @@ img-banner {
 
 .page-footer {
   background-color: #1D8159;
-  padding: 60px 0 30px;
+  color: black;
+  padding:20px 0 10px;
 }
 .footer-copyright {
-  padding: 40px 0;
+  color: black;
+  padding: 10px 0;
 }
 
 .sd-content ul li {
