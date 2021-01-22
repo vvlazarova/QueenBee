@@ -72,7 +72,7 @@ a {
 }
 
 .navbar {
-  background: #00BF6F;
+  background: #1D8159;
   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
@@ -99,19 +99,18 @@ a {
 }
 
 .description h1 {
-  color: #79d279;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1D8159;
 }
 
 .description h2 {
-  color: #79d279;
+  color: #1D8159;
 }
 
 .description h3 {
-  color: #79d279;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1D8159;
+
 }
-.description h {
+.description h4 {
   color: #79d279;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
@@ -217,12 +216,10 @@ a {
 }
 
 .page-footer {
-  background-color: #00BF6F;
-  color: #666;
+  background-color: #1D8159;
   padding: 60px 0 30px;
 }
 .footer-copyright {
-  color: #666;
   padding: 40px 0;
 }
 

@@ -82,7 +82,7 @@ hr {
 }
 
 .navbar {
-  background: #00BF6F;
+  background: #1D8159;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
@@ -107,17 +107,17 @@ hr {
   position: relative;
 }
 .description h1 {
-  color: #79d279;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1D8159;
+
 }
 
 .description h2 {
-  color: #79d279;
+  color: #1D8159;
 }
 
 .description h3 {
-  color: #79d279;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #1D8159;
+
 }
 
 .description p {
@@ -235,12 +235,12 @@ input[type="checkbox"] {
 }
 
 .page-footer {
-  background-color: #00BF6F;
-  color: #666;
+  background-color: #1D8159;
+  color: black;
   padding: 60px 0 30px;
 }
 .footer-copyright {
-  color: #666;
+  color: black;
   padding: 40px 0;
 }
 
