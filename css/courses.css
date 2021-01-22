@@ -46,7 +46,7 @@ a {
 }
 
 @media screen and (max-width: 600px) {
-  .navbar a {
+  .navbar a:not(:first-child) {
     display: none;
   }
   .navbar a.icon {
@@ -81,14 +81,14 @@ a {
 
 .nav-link,
 .navbar-brand {
-  color: #79d279;
+  color: #1D8159;
   cursor: pointer;
 }
 .nav-link {
   margin-right: 1em !important;
 }
 .nav-link:hover {
-  background: #ffcd23;
+  color: #ffcd23;
 }
 .navbar-collapse {
   justify-content: flex-end;
