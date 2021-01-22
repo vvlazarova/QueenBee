@@ -84,9 +84,7 @@ a {
   color: #1D8159;
   cursor: pointer;
 }
-.nav-link {
-  margin-right: 1em !important;
-}
+
 .nav-link:hover {
   color: #ffcd23;
 }
@@ -100,6 +98,7 @@ a {
 
 .description h1 {
   color: #1D8159;
+    text-align:center
 }
 
 .description h2 {
