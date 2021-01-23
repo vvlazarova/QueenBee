@@ -120,6 +120,7 @@ width:100%;
 
 .description h3 {
   color: black;
+    background-color: white;
 
 }
 .description h4 {
@@ -186,9 +187,8 @@ width:100%;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: white;
-  opacity: 0.8;
-  text-align:center
+text-decoration:inherit;
+
     
 }
 
