@@ -174,20 +174,26 @@ width:100%;
 /* Container holding the image and the text */
 .container features {
   position: static;
-  text-align: right;
+  text-align:left;
+    width:300px
 }
 
 .carousel-caption {
   position: absolute;
-  top: 70%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: white;
   opacity: 0.8;
-  padding-left: 40px;
-  padding-right: 40px;
-  height: 150px;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 200px;
+    
+    text-align:center
 }
+
+
+
 
 /* Footer */
 
