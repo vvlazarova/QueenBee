@@ -18,9 +18,9 @@ a {
 }
 
 #first {
-  color: white;
-    background-color:black;
-    opacity: 0.9;
+  color: black;
+    background-color:aliceblue;
+    opacity: 0.8;
 }
 
 #second {
