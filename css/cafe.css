@@ -156,7 +156,7 @@ a {
 }
 
 .carousel-item {
-  max-height: 550px;
+  max-height: 500px;
 }
 
 /* Container holding the image and the text */
@@ -176,6 +176,7 @@ text-decoration:inherit;
 
     
 }
+
 /* Footer */
 
 .fa {
