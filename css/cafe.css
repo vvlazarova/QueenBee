@@ -18,7 +18,9 @@ a {
 }
 
 #first {
-  text-align: left;
+  color: white;
+    background-color:black;
+    opacity: 0.9;
 }
 
 #second {
