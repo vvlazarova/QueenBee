@@ -26,7 +26,9 @@ a {
 }
 
 #second {
-  text-align: left;
+   color: black;
+    background-color:aliceblue;
+    opacity: 0.8;
 }
 
 #third {
