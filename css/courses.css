@@ -74,35 +74,23 @@ a {
 
 .navbar {
   background: #1D8159;
-  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
   margin-bottom: 16px;
+    font-size: 1.2rem;
 }
 
-
-
-.navbar-static-top
-{
-width:100%;
-margin:0 auto;
+.nav-link {
+  margin-right: 1em !important;
 }
-.navbar-static-top .container
-{
-width:100%;
-}
-.nav-link,
-.navbar-brand {
-  color: #1D8159;
-  cursor: pointer;
-}
-
 .nav-link:hover {
   color: #ffcd23;
 }
 .navbar-collapse {
   justify-content: flex-end;
 }
+
 
 
 
